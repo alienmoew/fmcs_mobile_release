@@ -14,7 +14,7 @@
     "apps": [
         {
             "name": "FMCS Mobile",
-            "bundleIdentifier": "vn.fmcs.mobile",
+            "bundleIdentifier": "com.fmcs.mobile",
             "developerName": "FMCS Team",
             "subtitle": "Ứng dụng quản lý di động FMCS",
             "localizedDescription": "Ứng dụng FMCS Mobile giúp bạn quản lý công việc mọi lúc mọi nơi từ thiết bị di động.",
