@@ -27,10 +27,10 @@
             ],
             "versions": [
                 {
-                    "version": "1.0.0",
+                    "version": "0.3.9",
                     "date": "2024-07-01T10:00:00+07:00",
                     "size": 15000000,
-                    "downloadURL": "https://alienmoew.github.io/fmcs_mobile_release/apps/fmcs_mobile_1.0.0.ipa",
+                    "downloadURL": "https://alienmoew.github.io/fmcs_mobile_release/apps/fmcs_v0.3.9.ipa",
                     "localizedDescription": "Phiên bản đầu tiên của ứng dụng FMCS Mobile với các tính năng cơ bản.",
                     "minOSVersion": "14.0"
                 }
