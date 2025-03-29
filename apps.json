@@ -1,6 +1,6 @@
 {
     "name": "FMCS Mobile",
-    "identifier": "com.fmcs.mobile",
+    "identifier": "com.fpt.fmcs",
     "sourceURL": "https://alienmoew.github.io/fmcs_mobile_release/apps.json",
     "subtitle": "Ứng dụng di động FMCS",
     "description": "Chào mừng đến với nguồn cung cấp ứng dụng FMCS Mobile. Tại đây bạn có thể tải các phiên bản mới nhất.",
@@ -9,12 +9,12 @@
     "website": "https://fmcs.io.vn",
     "tintColor": "#2196F3",
     "featuredApps": [
-        "com.fmcs.mobile"
+        "com.fpt.fmcs"
     ],
     "apps": [
         {
             "name": "FMCS Mobile",
-            "bundleIdentifier": "com.fmcs.mobile",
+            "bundleIdentifier": "com.fpt.fmcs",
             "developerName": "FMCS Team",
             "subtitle": "Ứng dụng quản lý di động FMCS",
             "localizedDescription": "Ứng dụng FMCS Mobile giúp bạn quản lý công việc mọi lúc mọi nơi từ thiết bị di động.",
