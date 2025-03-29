@@ -1,12 +1,12 @@
 {
     "name": "FMCS Mobile",
-    "identifier": "vn.fmcs.altstoursource",
+    "identifier": "com.fpt.fmcs",
     "sourceURL": "https://alienmoew.github.io/fmcs_mobile_release/apps.json",
     "subtitle": "Ứng dụng di động FMCS",
     "description": "Chào mừng đến với nguồn cung cấp ứng dụng FMCS Mobile. Tại đây bạn có thể tải các phiên bản mới nhất.",
     "iconURL": "https://alienmoew.github.io/fmcs_mobile_release/assets/source-icon.png",
     "headerURL": "https://alienmoew.github.io/fmcs_mobile_release/assets/header.png",
-    "website": "https://fmcs.vn",
+    "website": "https://fmcs.io.vn",
     "tintColor": "#2196F3",
     "featuredApps": [
         "vn.fmcs.mobile"
