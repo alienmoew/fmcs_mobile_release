@@ -1,0 +1,63 @@
+{
+    "name": "FMCS Mobile",
+    "identifier": "vn.fmcs.altstoursource",
+    "sourceURL": "https://alienmoew.github.io/fmcs_mobile_release/apps.json",
+    "subtitle": "Ứng dụng di động FMCS",
+    "description": "Chào mừng đến với nguồn cung cấp ứng dụng FMCS Mobile. Tại đây bạn có thể tải các phiên bản mới nhất.",
+    "iconURL": "https://alienmoew.github.io/fmcs_mobile_release/assets/source-icon.png",
+    "headerURL": "https://alienmoew.github.io/fmcs_mobile_release/assets/header.png",
+    "website": "https://fmcs.vn",
+    "tintColor": "#2196F3",
+    "featuredApps": [
+        "vn.fmcs.mobile"
+    ],
+    "apps": [
+        {
+            "name": "FMCS Mobile",
+            "bundleIdentifier": "vn.fmcs.mobile",
+            "developerName": "FMCS Team",
+            "subtitle": "Ứng dụng quản lý di động FMCS",
+            "localizedDescription": "Ứng dụng FMCS Mobile giúp bạn quản lý công việc mọi lúc mọi nơi từ thiết bị di động.",
+            "iconURL": "https://alienmoew.github.io/fmcs_mobile_release/assets/app-icon.png",
+            "tintColor": "#2196F3",
+            "screenshots": [
+                "https://alienmoew.github.io/fmcs_mobile_release/assets/screenshots/screenshot1.png",
+                "https://alienmoew.github.io/fmcs_mobile_release/assets/screenshots/screenshot2.png",
+                "https://alienmoew.github.io/fmcs_mobile_release/assets/screenshots/screenshot3.png"
+            ],
+            "versions": [
+                {
+                    "version": "1.0.0",
+                    "date": "2024-07-01T10:00:00+07:00",
+                    "size": 15000000,
+                    "downloadURL": "https://alienmoew.github.io/fmcs_mobile_release/apps/fmcs_mobile_1.0.0.ipa",
+                    "localizedDescription": "Phiên bản đầu tiên của ứng dụng FMCS Mobile với các tính năng cơ bản.",
+                    "minOSVersion": "14.0"
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.security.network.client",
+                    "com.apple.security.files.user-selected.read-write"
+                ],
+                "privacy": {
+                    "NSCameraUsageDescription": "Ứng dụng sử dụng camera để quét mã QR và chụp ảnh tài liệu.",
+                    "NSPhotoLibraryUsageDescription": "Ứng dụng cần quyền truy cập thư viện ảnh để lưu và tải lên hình ảnh.",
+                    "NSLocationWhenInUseUsageDescription": "Ứng dụng sử dụng vị trí của bạn để xác định địa điểm làm việc."
+                }
+            }
+        }
+    ],
+    "news": [
+        {
+            "title": "Ra mắt FMCS Mobile",
+            "identifier": "fmcs_mobile_launch",
+            "caption": "FMCS Mobile chính thức ra mắt!",
+            "date": "2024-07-01T10:00:00+07:00",
+            "tintColor": "#2196F3",
+            "imageURL": "https://alienmoew.github.io/fmcs_mobile_release/assets/news/launch.png",
+            "notify": true,
+            "url": "https://fmcs.vn/mobile-launch"
+        }
+    ]
+}
